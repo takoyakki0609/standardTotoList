@@ -1,0 +1,18 @@
+.App{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.ongoing{
+  display: flex;
+  gap: 12px;
+}
+.done{
+  display: flex;
+  gap: 12px;
+}
